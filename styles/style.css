@@ -20,7 +20,15 @@ body{
 	cursor: pointer;
 
 }
-
+.one{
+	background-color: tomato;
+}
+.two{
+	background-color: violet;
+}
+.three{
+	background-color: slateblue;
+}
 footer p {
 	background-color: black;
 	color: white;
