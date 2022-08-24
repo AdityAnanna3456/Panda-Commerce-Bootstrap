@@ -15,3 +15,9 @@
 	cursor: pointer;
 
 }
+
+footer p {
+	background-color: black;
+	color: white;
+	padding: 2%;
+}
