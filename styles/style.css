@@ -20,13 +20,13 @@ body{
 	cursor: pointer;
 
 }
-.one{
+#one{
 	background-color: tomato;
 }
-.two{
+#two{
 	background-color: violet;
 }
-.three{
+#three{
 	background-color: slateblue;
 }
 footer p {
